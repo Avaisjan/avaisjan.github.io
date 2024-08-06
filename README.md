@@ -89,4 +89,4 @@
 - **Naseem, A., Anwar, M., Ahmed, S., Jan, A., & Malik, A.K.** (2017, December). Reusing Stanford POS tagger for tagging Urdu sentences. In 2017 13th International Conference on Emerging Technologies (ICET) (pp. 1-6). IEEE.
 - **Jan, A., Abbas, A. and Ahmad, N.** (2022). Monitoring and controlling software project scope using agile EVM. Evolving Software Processes: Trends and Future Directions, pp.89-121.
 
-Feel free to copy and paste this into your README file. Let me know if you need any further adjustments!
+
