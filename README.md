@@ -3,11 +3,11 @@
 # About Me
 I am **Avais Jan**, a Ph.D. graduate student advised by Dr. Murray Patterson at the Department of Computer Science at Georgia State University.
 
-My research interests are in the fields of Machine Learning, Artificial Intelligence, Data Mining, Federated Learning, Representation Learning, Kernel Methods, Algorithms, Bioinformatics, Drug Discovery, and Health Data. My current research focuses on developing ML/AI techniques in the field of bioinformatics.
+My research interests include Machine Learning, Artificial Intelligence, Data Mining, Federated Learning, Representation Learning, Kernel Methods, Algorithms, Bioinformatics, Drug Discovery, and Health Data. Currently, I am focused on developing ML/AI techniques in bioinformatics.
 
-I am an aspiring Research Professional, well-equipped with practical and innovative solutions. I am a staunch believer that diligence and determination with a focused goal are necessary for the long run.
+I am dedicated to pursuing innovative and practical solutions in my field. I believe that diligence, determination, and a clear focus are crucial for long-term success.
 
-Previously, I earned my Master's Degree in Computer Science from Georgia State University (2014-2016). I have 5+ years of experience in the Software/IT Industry, having worked at Amerisave Mortgage Corporation and InComm as a Software Engineer. I received my Bachelor's degree in Information Technology from Rajiv Gandhi Technical University, Bhopal, India.
+I hold a Master’s Degree in Software Engineering from COMSATS University Islamabad (2015-2019) and a Bachelor's degree in Software Engineering from International Islamic University Islamabad (2008-2013). I also have over 5 years of experience in the Software/IT Industry, including roles as a Junior Software Engineer at Hack on Tech, Islamabad, and a Lecturer at Atlantic College Mandani, Charsadda. Additionally, I have completed various certifications in Data Science, Machine Learning, and Data Analysis from reputable institutions.
 
 ## Research
 My main areas of interest are in Machine Learning, Artificial Intelligence, Data Mining, Federated Learning, Representation Learning, Kernel Methods, Algorithms, Bioinformatics, Drug Discovery, and Health Data. My current research focuses on developing ML/AI techniques in the field of bioinformatics. Broadly, I'm interested in Artificial Intelligence, Machine Learning, Drug Discovery, and Federated Learning.
