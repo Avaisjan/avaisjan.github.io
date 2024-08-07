@@ -27,7 +27,6 @@ My main areas of interest are in Machine Learning, Artificial Intelligence, Data
 
 
 ## Education
-## Education
 - **Ph.D., Computer Science** | Georgia State University (_2021 - Present_)  
   GPA: 3.83 / 4.0  
   Advisor: Dr. Murry Peterson
