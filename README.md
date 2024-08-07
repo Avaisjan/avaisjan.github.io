@@ -1,8 +1,7 @@
-Here is your updated `README.md` file based on the new information:
 
-```markdown
+
 # About Me
-I am **Prakash Chourasia**, a Ph.D. graduate student advised by Dr. Murray Patterson at the Department of Computer Science at Georgia State University.
+I am **Avais Jan**, a Ph.D. graduate student advised by Dr. Murray Patterson at the Department of Computer Science at Georgia State University.
 
 My research interests are in the fields of Machine Learning, Artificial Intelligence, Data Mining, Federated Learning, Representation Learning, Kernel Methods, Algorithms, Bioinformatics, Drug Discovery, and Health Data. My current research focuses on developing ML/AI techniques in the field of bioinformatics.
 
@@ -43,7 +42,7 @@ My main areas of interest are in Machine Learning, Artificial Intelligence, Data
 ## Education
 - **Ph.D., Computer Science** | Georgia State University (_2021 - Present_)  
   GPA: 3.82 / 4.0
-- **M.S., Computer Science** | Georgia State University (_2014 - 2016_)  
+- **M.S., Software Engineering** | Georgia State University (_2014 - 2016_)  
   GPA: 3.54 / 4.0
 - **Post Graduate Diploma in Information Security** | Indira Gandhi National Open University (_2011 - 2014_)  
   Percentage: 70.24 / 100
