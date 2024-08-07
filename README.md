@@ -68,11 +68,11 @@ My main areas of interest are in Machine Learning, Artificial Intelligence, Data
 - **CSC 3210: Computer Org and Programming** (Xucan Chen) _Fall 2021_
 
 ## Work Experience
-**Data Science Research Intern @ Johnson & Johnson, Remote - Atlanta, GA**  
-_May 2024 - Aug 2024_
+** Teaching Assistant @ Georgia State University,  Atlanta, GA**  
+_Spring 2024_
 
-**Software Engineer-II @ Interactive Communication (InComm), Atlanta, GA**  
-_Oct 2019 - Aug 2021_
+**Graduate Assistant @ Teradata , Islamabad**  
+_Oct 2020 - June 2021_
 
-**Software Developer @ Amerisave Mortgage Corporation, Atlanta, GA**  
-_June 2016 - Oct 201
+**Graduate Teaching Assistant @ Comsats University, Islamabad**  
+_Sept 2015 - May 2019
