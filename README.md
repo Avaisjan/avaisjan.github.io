@@ -1,5 +1,5 @@
 
-# Avais Jan
+# About Me
 
 **Email:** ajan3@student.gsu.edu  
 **Phone:** 609 401 8301
