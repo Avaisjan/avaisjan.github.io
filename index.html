@@ -8,24 +8,32 @@
 </head>
 <body>
     <header>
-        <h1>Avais Jan</h1>
-        <img src="imag.png" alt="Avais Jan" class="profile-pic">
-        <nav>
-            <ul>
-                <li><a href="#about">About Me</a></li>
-                <li><a href="#research">Research</a></li>
-                <li><a href="#publications">Publications</a></li>
-                <li><a href="#education">Education</a></li>
-                <li><a href="#honors">Honors and Awards</a></li>
-                <li><a href="#teaching">Teaching Experience</a></li>
-                <li><a href="#work">Work Experience</a></li>
-                <li><a href="#certificates">Certificates</a></li>
-            </ul>
-        </nav>
+        <div class="header-content">
+            <div class="header-left">
+                <h1>Avais Jan</h1>
+                <p>M: +1-609-401-8301</p>
+                <p>E: ajan3@student.gsu.edu | avaisjnn@gmail.com</p>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="#about">About Me</a></li>
+                    <li><a href="#research">Research</a></li>
+                    <li><a href="#publications">Publications</a></li>
+                    <li><a href="#education">Education</a></li>
+                    <li><a href="#honors">Awards</a></li>
+                    <li><a href="#teaching">Teaching</a></li>
+                    <li><a href="#work">WorkEx</a></li>
+                    <li><a href="#cv">CV</a></li>
+                    <li><a href="#scholar">Google Scholar</a></li>
+                    <li><a href="#conferences">Conferences</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
 
     <section id="about">
         <h2>About Me</h2>
+        <img src="imag.png" alt="Avais Jan" class="profile-pic">
         <p>I am Avais Jan, a Ph.D. graduate student advised by Dr. Murray Patterson at the Department of Computer Science at Georgia State University.</p>
         <p>My research interests include Machine Learning, Artificial Intelligence, Data Mining, Federated Learning, Representation Learning, Kernel Methods, Algorithms, Bioinformatics, Drug Discovery, and Health Data. Currently, I am focused on developing ML/AI techniques in bioinformatics.</p>
         <p>I am dedicated to pursuing innovative and practical solutions in my field. I believe that diligence, determination, and a clear focus are crucial for long-term success.</p>
@@ -120,7 +128,26 @@
     </section>
 
     <footer>
-        <p>Contact: <a href="mailto:avaisjnn@gmail.com.com">avaisjnn@gmail.com</a></p>
+        <p>&copy; 2024 Avais Jan</p>
     </footer>
+
+    <script>
+        document.addEventListener('scroll', function() {
+            const footer = document.querySelector('footer');
+            const scrollPosition = window.scrollY + window.innerHeight;
+            const documentHeight = document.documentElement.scrollHeight;
+            
+            // Determine if the footer should be shown based on the scroll position
+            if (scrollPosition >= documentHeight - 10) { // Small offset to trigger footer before reaching exactly the bottom
+                footer.classList.add('show');
+            } else {
+                footer.classList.remove('show');
+            }
+        });
+    </script>
+    
+    
+
+
 </body>
 </html>
